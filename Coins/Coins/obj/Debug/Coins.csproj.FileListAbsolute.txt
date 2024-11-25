@@ -1,0 +1,10 @@
+C:\Users\morie\Downloads\CS 2024-2025\First Sem\CS345\Coins\Coins\bin\Debug\Coins.exe.config
+C:\Users\morie\Downloads\CS 2024-2025\First Sem\CS345\Coins\Coins\bin\Debug\Coins.exe
+C:\Users\morie\Downloads\CS 2024-2025\First Sem\CS345\Coins\Coins\bin\Debug\Coins.pdb
+C:\Users\morie\Downloads\CS 2024-2025\First Sem\CS345\Coins\Coins\obj\Debug\Coins.csproj.AssemblyReference.cache
+C:\Users\morie\Downloads\CS 2024-2025\First Sem\CS345\Coins\Coins\obj\Debug\Coins.Form1.resources
+C:\Users\morie\Downloads\CS 2024-2025\First Sem\CS345\Coins\Coins\obj\Debug\Coins.Properties.Resources.resources
+C:\Users\morie\Downloads\CS 2024-2025\First Sem\CS345\Coins\Coins\obj\Debug\Coins.csproj.GenerateResource.cache
+C:\Users\morie\Downloads\CS 2024-2025\First Sem\CS345\Coins\Coins\obj\Debug\Coins.csproj.CoreCompileInputs.cache
+C:\Users\morie\Downloads\CS 2024-2025\First Sem\CS345\Coins\Coins\obj\Debug\Coins.exe
+C:\Users\morie\Downloads\CS 2024-2025\First Sem\CS345\Coins\Coins\obj\Debug\Coins.pdb
