@@ -101,15 +101,15 @@ namespace Coins
                         {
                             fiveCentCount++;
                         }
-                        else if (area <= 4020)  // 10 cent
+                        else if (area <= 5000)  // 10 cent
                         {
                             tenCentCount++;
                         }
-                        else if (area <= 5000)  // 25 cent
+                        else if (area <= 7000)  // 25 cent
                         {
                             twentyFiveCentCount++;
                         }
-                        else if (area <= 6000)  // 1 peso
+                        else if (area <= 8500)  // 1 peso
                         {
                             onePesoCount++;
                         }
